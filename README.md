@@ -1,3 +1,3 @@
 # Bayesian Nonparametric Modeling of Ordinal Drought Data
 
-This repository contains R scripts for a research project that develops and evaluates Bayesian nonparametric (BNP) regression models for spatiotemporal ordinal drought data.
+This repository contains R scripts developed for the manuscript *"Bayesian Nonparametric Approaches to Ordinal Drought Modeling in the United States"* by Mostafa Shams, Rob Erhardt, and Staci A. Hepler. 
